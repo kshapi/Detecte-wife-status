@@ -1,0 +1,2 @@
+# Detecte-wife-status
+Wifi
